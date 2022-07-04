@@ -1,5 +1,6 @@
 body {
     font-family: 'Merriweather', serif;
+    margin: 0px;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
 
 p {
     text-align: justify;
+    padding-bottom: 10px;
 }
 
 section {
@@ -44,5 +46,12 @@ section {
     background-image: linear-gradient(rgb(58, 58, 236), rgb(52, 142, 226));
     color: white;
     font-weight: 700;
+
+}
+
+.top-banner {
+    background-image: url(image_ass/back_02.png);
+    background-repeat: no-repeat;
+    background-size: auto;
 
 }
